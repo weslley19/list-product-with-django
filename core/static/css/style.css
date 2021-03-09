@@ -1,0 +1,9 @@
+a {
+    color: #fff;
+}
+
+a:hover {
+    color: aqua;
+    font-weight: 500;
+    text-decoration: none;
+}
